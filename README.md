@@ -85,7 +85,7 @@ I enjoy turning ideas into real products using modern web technologies.
 
 ---
 
-## 📈 Goals for 2025
+## 📈 Goals for 2026
 
 - ✅ Become job-ready as a **Full-Stack Java Developer**
 - ✅ Build real-world projects with **Spring Boot & Angular**
